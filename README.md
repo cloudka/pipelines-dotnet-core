@@ -11,7 +11,7 @@ For information on how to use this repository, see [.NET Core](https://docs.micr
 | Build image and push to Azure Container Registry | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-acr)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=5) |
 | Build image and push to Azure Container Registry (YAML) | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore-acr-yaml)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=6) |
 
-# Contributing
+# Contributing - Diyaka and Team
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
